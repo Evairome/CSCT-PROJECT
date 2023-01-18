@@ -1,0 +1,8 @@
+fraudTrain.csv filter=lfs diff=lfs merge=lfs -text
+[200~ROJECT.ipynb[[:space:]][[:space:]][[:space:]]LICENSE[[:space:]][[:space:]][[:space:]]README.md[[:space:]][[:space:]][[:space:]]fraudTrain.csv
+oghen@DESKTOP-LU7E6BB[[:space:]]MINGW64[[:space:]]~/Desktop/CSCT-PROJECT[[:space:]](main)
+$[[:space:]]git[[:space:]]lfs[[:space:]]track
+git[[:space:]]lfs[[:space:]]track[[:space:]][200~ROJECT.ipynb filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
