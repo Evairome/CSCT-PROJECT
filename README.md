@@ -1,3 +1,5 @@
-OGHENEMARO ESTHER OMUABOR - 21073932
-CSCT PROJECT
-CREDIT CARD FRAUD DETECTION WITH MACHINE LEARNING
+The problem of credit card fraud is a significant issue that affects individuals and financial organizations alike. Fraudsters use various methods, such as social engineering, to obtain financial information and steal funds (UK Finance, 2022). In the United Kingdom, credit card fraud accounts for a significant portion of overall fraud at 39% (Thomas, 2021). To combat this problem, financial organizations are turning to machine learning algorithms to improve the security of financial information and reduce fraud.
+Despite these efforts, fraudsters remain persistent and constantly change their patterns of fraud. Furthermore, fraud transactions occur very quickly, making it difficult to detect and prevent them in real-time. Additionally, the imbalance between legitimate transactions and fraud data can make it challenging for machine learning algorithms to accurately identify fraud patterns.
+
+This project aims to address these challenges by using two machine learning algorithms, Random Forest, and Neural Network to identify peculiar fraud features on time and balance the data. The research will also improve the speed of identifying these features and increase the overall performance of credit card fraud detection.
+
